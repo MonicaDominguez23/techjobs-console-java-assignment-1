@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TechJobsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-07-19T23:50:01" hostname="monicas-mbp.lan" time="0.053">
+  <properties/>
+  <testcase name="testPrintJobs" classname="TechJobsTest" time="0.045"/>
+  <testcase name="testCaseInsensitiveSearch" classname="TechJobsTest" time="0.003"/>
+  <testcase name="testPrintJobsNoResults" classname="TechJobsTest" time="0.002"/>
+  <testcase name="testFindByValue" classname="TechJobsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
